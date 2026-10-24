@@ -1,0 +1,19 @@
+{
+  "profile_dir": "C:/Users/USER/AppData/Local/FlowAutomationChrome",
+  "cdp_port": 9222,
+  "chrome_path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+  "docs": [
+    { "n": 1,  "id": "1zyh70PK5RKhZU1ncTr5yDBIitVcT-d6aS71qqRR2hd0" },
+    { "n": 2,  "id": "11rrPrMVpvnXkzCf3Eyr18SJ3vIGbYtarFEk9AqKiOl8" },
+    { "n": 3,  "id": "1tf-vi6Eo4c1UMvKI0ddYbYgYg_dIC33IHmI1Cwx9hvs" },
+    { "n": 4,  "id": "1UrefG8uOVvi3h1Vm8k4MzCN3vrlVVrmGGOo9cqTUQLM" },
+    { "n": 5,  "id": "1WC4V1NNldEs7uS_Xld51393uiRI5p7eKxYgC5BlC5MY" },
+    { "n": 6,  "id": "168OJEbH7e1qnqa81nyyUy0ZTJYft4Y50cYUyEqubs48" },
+    { "n": 7,  "id": "1wwz_1KFb9PpJW47tzZqoOqb2LaYl6JRvko5-WiommwM" },
+    { "n": 8,  "id": "1GlKsgFKe7JGm9lgOKt-4tH2DRZA0r_Xfxf89dpb1Sac" },
+    { "n": 9,  "id": "1VwYa2VUseoVskqWsBmMoHp-Hqshnay2q11Bvwm2Tuzk" },
+    { "n": 10, "id": "1pUaz4vPmOKyplO5LHm7nRLLcjDRFRgYLNC0lsRuxT1U" },
+    { "n": 11, "id": "1W3ajRQiHjL4rqDQYWfkyYqAOQE_O7D42FQ5CWb6avMs" },
+    { "n": 12, "id": "13ZTrmU9eZ0ltVSNirEcBuqq017_b-TB85qZEqfPPF5Q" }
+  ]
+}

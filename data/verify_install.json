@@ -1,0 +1,443 @@
+{
+  "1": {
+    "tabs": [
+      "PC 1",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 1",
+    "validasi_issues": [
+      [
+        2.0,
+        "W01",
+        "Link Channel kosong",
+        "ADA MASALAH"
+      ],
+      [
+        3.0,
+        null,
+        "Worker ID kosong | Link Channel kosong",
+        "ADA MASALAH"
+      ],
+      [
+        4.0,
+        null,
+        "Worker ID kosong | Update Date kosong | Link Channel kosong",
+        "ADA MASALAH"
+      ],
+      [
+        5.0,
+        null,
+        "Worker ID kosong | Update Date kosong | Link Channel kosong | Tgl Dibuat kosong | Status kosong (pilih dari daftar)",
+        "ADA MASALAH"
+      ],
+      [
+        6.0,
+        null,
+        "Worker ID kosong | Update Date kosong | Link Channel kosong | Tgl Dibuat kosong | Status kosong (pilih dari daftar)",
+        "ADA MASALAH"
+      ],
+      [
+        7.0,
+        null,
+        "Worker ID kosong | Update Date kosong | Link Channel kosong | Tgl Dibuat kosong | Status kosong (pilih dari daftar)",
+        "ADA MASALAH"
+      ],
+      [
+        8.0,
+        null,
+        "Worker ID kosong | Update Date kosong | Link Channel kosong | Tgl Dibuat kosong | Status kosong (pilih dari daftar)",
+        "ADA MASALAH"
+      ],
+      [
+        9.0,
+        null,
+        "Worker ID kosong | Update Date kosong | Link Channel kosong | Tgl Dibuat kosong | Status kosong (pilih dari daftar)",
+        "ADA MASALAH"
+      ]
+    ],
+    "validasi_rows": 20,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 111,
+    "red_sample": [
+      "H2",
+      "A3",
+      "H3",
+      "A4",
+      "B4",
+      "H4",
+      "A5",
+      "B5",
+      "H5",
+      "J5"
+    ],
+    "note_count": 111,
+    "note_sample": [
+      [
+        "H2",
+        "Link Channel kosong"
+      ],
+      [
+        "A3",
+        "Worker ID kosong"
+      ],
+      [
+        "H3",
+        "Link Channel kosong"
+      ],
+      [
+        "A4",
+        "Worker ID kosong"
+      ],
+      [
+        "B4",
+        "Update Date kosong"
+      ]
+    ]
+  },
+  "2": {
+    "tabs": [
+      "PC 02",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 02",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "3": {
+    "tabs": [
+      "PC 03",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 03",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "4": {
+    "tabs": [
+      "PC 04",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 04",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "5": {
+    "tabs": [
+      "PC 05",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 05",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "6": {
+    "tabs": [
+      "PC 06",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 06",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "7": {
+    "tabs": [
+      "PC 07",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 07",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "8": {
+    "tabs": [
+      "PC 08",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 08",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "9": {
+    "tabs": [
+      "PC 09",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 09",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "10": {
+    "tabs": [
+      "PC 10",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 10",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "11": {
+    "tabs": [
+      "PC 11",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 11",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  },
+  "12": {
+    "tabs": [
+      "PC 12",
+      "VALIDASI"
+    ],
+    "validasi": true,
+    "data_tab": "PC 12",
+    "validasi_issues": [],
+    "validasi_rows": 0,
+    "header_notes": {
+      "A1": "Worker ID - unik di dalam PC. Format disarankan 'PC07-0001' (prefix PC + nomor urut).",
+      "B1": "Update Date - format tanggal-jam YYYY-MM-DD HH:MM. Isi waktu entri terakhir diubah.",
+      "C1": "Song ID YT - ID video YouTube (bukan URL). Contoh: x7pB0nE1g4M.",
+      "D1": "Judul Lagu Kompilasi - judul bebas; jangan pakai pindah baris (Alt+Enter) di dalam sel.",
+      "E1": "Aggregator - pilih dari daftar baku: TuneCore / DistroKid / TooLost / SoundOn / Ditto / Believe / CD Baby / Amuse / Symp",
+      "F1": "Genre - pilih 1 atau 2 genre, pisahkan dengan koma. Daftar: Pop / Jazz / Hip-Hop / Soul / Indie / Dangdut / Rock / R&B /",
+      "G1": "Nama Channel - nama channel YouTube yang persis dipakai di baris ini.",
+      "H1": "Link Channel YT - URL channel (bukan link video); boleh youtube.com atau youtu.be.",
+      "I1": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+      "J1": "Tanggal Video Dibuat - format tanggal YYYY-MM-DD, harus bertipe tanggal (bukan teks).",
+      "K1": "Tanggal Video Dipublish - format tanggal YYYY-MM-DD; boleh kosong bila belum tayang.",
+      "L1": "Status Upload - pilih dari: Draft / Menunggu Review / Revisi / Terjadwal / Upload / Publish / Published / Batal.",
+      "M1": "PIC channel - nama PIC channel; boleh kosong."
+    },
+    "note_i": "Link Video YT - URL video YouTube (bukan link channel); wajib; boleh youtube.com atau youtu.be.",
+    "red_count": 0,
+    "red_sample": [],
+    "note_count": 0,
+    "note_sample": []
+  }
+}

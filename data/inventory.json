@@ -1,0 +1,326 @@
+[
+  {
+    "file": "src01.xlsx",
+    "tabs": [
+      {
+        "name": "PC 1",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src02.xlsx",
+    "tabs": [
+      {
+        "name": "PC 02",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src03.xlsx",
+    "tabs": [
+      {
+        "name": "PC 03",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src04.xlsx",
+    "tabs": [
+      {
+        "name": "PC 04",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src05.xlsx",
+    "tabs": [
+      {
+        "name": "PC 05",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src06.xlsx",
+    "tabs": [
+      {
+        "name": "PC 06",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src07.xlsx",
+    "tabs": [
+      {
+        "name": "PC 07",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src08.xlsx",
+    "tabs": [
+      {
+        "name": "PC 08",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src09.xlsx",
+    "tabs": [
+      {
+        "name": "PC 09",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src10.xlsx",
+    "tabs": [
+      {
+        "name": "PC 10",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src11.xlsx",
+    "tabs": [
+      {
+        "name": "PC 11",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  },
+  {
+    "file": "src12.xlsx",
+    "tabs": [
+      {
+        "name": "PC 12",
+        "rows": 1,
+        "max_cols": 12,
+        "header_row_index": 0,
+        "row1": [
+          "Worker ID",
+          "Update Date",
+          "Song ID YT ",
+          "Judul Lagu Kompilasi",
+          "Aggregator",
+          "Genre ",
+          "Nama Channel",
+          "Link YT",
+          "Tanggal Video Dibuat",
+          "Tanggal Video Dipublish",
+          "Status Upload",
+          "PIC channel "
+        ],
+        "row2": [],
+        "sample": []
+      }
+    ]
+  }
+]

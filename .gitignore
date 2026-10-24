@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Screenshot/debug dan backup; hanya master xlsx yang disimpan.
+output/*
+!output/master_karyawan.xlsx
+
+# Screenshot debug di folder data.
+data/*.png
